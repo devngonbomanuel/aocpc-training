@@ -12,10 +12,10 @@ Repositório dedicado ao meu treinamento para competições de programação, co
 
 Aqui reúno soluções, anotações e práticas resolvidas em diferentes plataformas, com o objetivo de melhorar:
 
-- 🧠 Raciocínio lógico  
-- ⚡ Performance em algoritmos  
-- 📊 Estruturas de dados  
-- 🏆 Preparação para competições  
+- 🧠 Raciocínio lógico
+- ⚡ Performance em algoritmos
+- 📊 Estruturas de dados
+- 🏆 Preparação para competições
 
 ---
 
@@ -128,3 +128,4 @@ Este é um repositório pessoal de treino, mas sugestões e melhorias são sempr
 │
 📁 templates/
 📁 notes/
+```
